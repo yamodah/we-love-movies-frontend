@@ -1,5 +1,5 @@
 const API_BASE_URL =
-  process.env.REACT_APP_API_BASE_URL ;
+  process.env.REACT_APP_API_URL ;
 
 /**
  * Defines the default headers for these functions to work with `json-server`
